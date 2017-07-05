@@ -1,0 +1,264 @@
+"aa" = (/turf/simulated/floor/edgefloor,/area/prishtina/field)
+"ab" = (/turf/simulated/floor/plating/asteroid,/area/prishtina/field)
+"ac" = (/turf/simulated/floor/plating/asteroid,/area/prishtina/train/german/cabin/conductor)
+"ad" = (/turf/simulated/floor/plating/asteroid,/area/prishtina/train/german/cabin/officer)
+"ae" = (/turf/unsimulated/wall,/area/prishtina/german_base)
+"af" = (/turf/simulated/floor/wood,/area/prishtina/german_base)
+"ag" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/wood,/area/prishtina/german_base)
+"ah" = (/obj/structure/closet/crate/artillery,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"ai" = (/turf/simulated/floor/plating/asteroid,/area/prishtina/train/german/cabin/soldier)
+"aj" = (/turf/simulated/floor/plating/asteroid,/area/prishtina/train/german/cabin/storage)
+"ak" = (/obj/structure/sign/flag/germany,/turf/unsimulated/wall,/area/prishtina/german_base)
+"al" = (/obj/structure/sign/portrait_hitler,/turf/unsimulated/wall,/area/prishtina/german_base)
+"am" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/wood,/area/prishtina/german_base)
+"an" = (/obj/machinery/light{dir = 4},/turf/simulated/floor/wood,/area/prishtina/german_base)
+"ao" = (/obj/structure/bed,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"ap" = (/obj/effect/landmark{name = "JoinLateNATO"},/turf/simulated/floor/wood,/area/prishtina/german_base)
+"aq" = (/obj/machinery/light,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"ar" = (/obj/machinery/door/airlock/glass,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"as" = (/obj/structure/closet/crate/sandbags,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"at" = (/obj/machinery/light{dir = 1},/obj/structure/closet/crate/sandbags,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"au" = (/obj/structure/closet/crate/bettymines,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"av" = (/obj/item/stack/material/steel{amount = 50},/obj/item/stack/material/steel{amount = 50},/obj/structure/table/standard,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"aw" = (/obj/item/weapon/storage/box/lights,/obj/structure/table/standard,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"ax" = (/obj/machinery/door/airlock/glass_engineering{name = "Engineers Equipment"; req_access = list(83)},/turf/simulated/floor/wood,/area/prishtina/german_base)
+"ay" = (/obj/machinery/vending/germanapparel,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"az" = (/obj/structure/table/reinforced,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"aA" = (/obj/structure/closet/crate/mp40kammo,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"aB" = (/obj/machinery/light{dir = 1},/obj/structure/closet/crate/mp40kammo,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"aC" = (/obj/machinery/light{dir = 1},/obj/structure/closet/crate/mp43ammo,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"aD" = (/obj/structure/closet/crate/gernade,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"aE" = (/obj/machinery/light{dir = 1},/obj/structure/closet/crate/kar98kammo,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"aF" = (/obj/structure/closet/crate/kar98kammo,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"aG" = (/obj/machinery/light,/obj/item/weapon/plastique,/obj/item/weapon/plastique,/obj/item/weapon/plastique,/obj/item/weapon/plastique,/obj/item/weapon/plastique,/obj/structure/table/standard,/obj/item/weapon/wrench,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"aH" = (/obj/item/stack/material/barbwire{amount = 50},/obj/item/stack/material/barbwire{amount = 50},/obj/structure/table/standard,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"aI" = (/obj/machinery/power/smes/buildable/power_shuttle,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"aJ" = (/obj/machinery/door/airlock/glass_security{name = "Specialists Equipment"; req_access = list(84)},/turf/simulated/floor/wood,/area/prishtina/german_base)
+"aK" = (/obj/structure/table/standard,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"aL" = (/obj/structure/table/standard,/obj/item/device/radio/intercom/fu2,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"aM" = (/obj/structure/table/standard,/obj/item/device/radio/feldfu,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"aN" = (/obj/structure/closet/crate/mg34ammo,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"aO" = (/obj/machinery/light,/obj/structure/closet/crate/mg34ammo,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"aP" = (/obj/structure/closet/crate/gauze,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"aQ" = (/obj/machinery/light,/obj/structure/closet/crate/gauze,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"aR" = (/obj/structure/table/steel_reinforced,/obj/item/device/radio/feldfu,/obj/item/device/radio/feldfu,/obj/item/device/radio/feldfu,/obj/item/device/radio/feldfu,/obj/item/device/radio/feldfu,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"aS" = (/obj/machinery/light,/obj/structure/closet/crate/lugerammo,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"aT" = (/obj/structure/closet/crate/lugerammo,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"aU" = (/obj/machinery/light,/obj/structure/closet/crate/kar98kammo,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"aV" = (/obj/item/weapon/stool,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"aW" = (/obj/machinery/power/apc/super{cell_type = /obj/item/weapon/cell/infinite},/turf/simulated/floor/wood,/area/prishtina/german_base)
+"aX" = (/obj/machinery/iv_drip,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"aY" = (/obj/structure/table/steel_reinforced,/obj/random/firstaid,/obj/item/weapon/storage/firstaid,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"aZ" = (/obj/structure/table/steel_reinforced,/obj/item/weapon/circular_saw,/obj/item/weapon/hemostat,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"ba" = (/obj/structure/table/steel_reinforced,/obj/item/weapon/FixOVein,/obj/item/weapon/bonesetter,/obj/item/weapon/retractor,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"bb" = (/obj/structure/table/reinforced,/obj/item/weapon/storage/box/bodybags,/obj/item/weapon/storage/box/bodybags,/obj/item/weapon/storage/box/bodybags,/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/wood,/area/prishtina/german_base)
+"bc" = (/obj/machinery/optable,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"bd" = (/obj/structure/table/steel_reinforced,/obj/item/weapon/scalpel,/obj/item/weapon/surgicaldrill,/obj/machinery/light{dir = 4},/turf/simulated/floor/wood,/area/prishtina/german_base)
+"be" = (/obj/machinery/door/airlock/glass_command,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"bf" = (/obj/machinery/door/airlock/glass_medical{name = "Field Medics Equipment"; req_access = list(81)},/turf/simulated/floor/wood,/area/prishtina/german_base)
+"bg" = (/obj/structure/table/steel_reinforced,/obj/item/weapon/bonegel,/obj/item/weapon/cautery,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"bh" = (/obj/structure/table/reinforced,/obj/item/weapon/storage/firstaid/surgery,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"bi" = (/obj/structure/table/reinforced,/obj/item/stack/medical/splint,/obj/item/stack/medical/splint,/obj/item/stack/medical/splint,/obj/item/stack/medical/splint,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"bj" = (/obj/structure/table/reinforced,/obj/item/stack/medical/splint,/obj/item/weapon/storage/firstaid/surgery,/obj/machinery/light,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"bk" = (/obj/structure/table/reinforced,/obj/item/weapon/reagent_containers/glass/bottle/inaprovaline,/obj/item/weapon/reagent_containers/blood/AMinus,/obj/item/weapon/reagent_containers/blood/AMinus,/obj/item/weapon/reagent_containers/blood/AMinus,/obj/item/weapon/reagent_containers/blood/AMinus,/obj/item/weapon/reagent_containers/blood/APlus,/obj/item/weapon/reagent_containers/blood/APlus,/obj/item/weapon/reagent_containers/blood/APlus,/obj/item/weapon/reagent_containers/blood/APlus,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"bl" = (/obj/structure/table/reinforced,/obj/item/weapon/reagent_containers/glass/bottle/stoxin,/obj/item/weapon/reagent_containers/glass/bottle/inaprovaline,/obj/item/weapon/reagent_containers/glass/bottle/inaprovaline,/obj/item/weapon/reagent_containers/blood/BMinus,/obj/item/weapon/reagent_containers/blood/BMinus,/obj/item/weapon/reagent_containers/blood/BMinus,/obj/item/weapon/reagent_containers/blood/BMinus,/obj/item/weapon/reagent_containers/blood/BPlus,/obj/item/weapon/reagent_containers/blood/BPlus,/obj/item/weapon/reagent_containers/blood/BPlus,/obj/item/weapon/reagent_containers/blood/BPlus,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"bm" = (/obj/structure/table/reinforced,/obj/item/weapon/storage/pill_bottle/kelotane,/obj/item/weapon/storage/pill_bottle/kelotane,/obj/item/weapon/storage/pill_bottle/dylovene,/obj/item/weapon/storage/pill_bottle/dylovene,/obj/item/weapon/storage/pill_bottle/dylovene,/obj/machinery/light,/obj/item/weapon/reagent_containers/blood/OMinus,/obj/item/weapon/reagent_containers/blood/OMinus,/obj/item/weapon/reagent_containers/blood/OMinus,/obj/item/weapon/reagent_containers/blood/OMinus,/obj/item/weapon/reagent_containers/blood/OPlus,/obj/item/weapon/reagent_containers/blood/OPlus,/obj/item/weapon/reagent_containers/blood/OPlus,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"bn" = (/obj/structure/table/reinforced,/obj/item/weapon/storage/pill_bottle/bicaridine,/obj/item/weapon/storage/pill_bottle/bicaridine,/obj/item/weapon/storage/pill_bottle/dexalin_plus,/obj/item/weapon/storage/pill_bottle/dexalin_plus,/obj/item/weapon/storage/pill_bottle/dexalin_plus,/obj/item/weapon/storage/pill_bottle/bicaridine,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"bo" = (/obj/structure/table/reinforced,/obj/item/weapon/pill_pack/pervitin,/obj/item/weapon/storage/firstaid/injectorpack,/obj/item/weapon/storage/firstaid/injectorpack,/obj/item/weapon/storage/firstaid/injectorpack,/turf/simulated/floor/wood,/area/prishtina/german_base)
+"bp" = (/obj/item/weapon/stool,/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/wood,/area/prishtina/german_base)
+"bq" = (/obj/item/weapon/stool,/obj/machinery/light{dir = 4},/turf/simulated/floor/wood,/area/prishtina/german_base)
+"br" = (/turf/unsimulated/wall,/area/prishtina/german_base_outside)
+"bs" = (/turf/simulated/floor/plating/grass,/area/prishtina/german_base_outside)
+"bt" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{icon_state = "2"; opacity = 0; tag = "icon-2"},/area/prishtina/helicopter_1/nato_base)
+"bu" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{tag = "icon-3"; icon_state = "3"},/area/prishtina/helicopter_1/nato_base)
+"bv" = (/turf/simulated/floor/plating/asteroid,/turf/simulated/shuttle/helicopter{tag = "icon-4"; icon_state = "4"},/area/prishtina/helicopter_1/nato_base)
+"bw" = (/turf/simulated/floor/plating/asteroid,/area/prishtina/german_base_outside)
+"bx" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{icon_state = "2"; opacity = 0; tag = "icon-2"},/area/prishtina/helicopter_2/nato_base)
+"by" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{tag = "icon-3"; icon_state = "3"},/area/prishtina/helicopter_2/nato_base)
+"bz" = (/turf/simulated/floor/plating/asteroid,/turf/simulated/shuttle/helicopter{tag = "icon-4"; icon_state = "4"},/area/prishtina/helicopter_2/nato_base)
+"bA" = (/turf/simulated/floor/plating/sand,/area/prishtina/german_base_outside)
+"bB" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{tag = "icon-7"; icon_state = "7"},/area/prishtina/helicopter_1/nato_base)
+"bC" = (/obj/structure/bed/chair{dir = 1},/obj/machinery/computer/shuttle_control/multi/nato1,/turf/simulated/shuttle/helicopter{density = 0; icon_state = "8"; tag = "icon-8"},/area/prishtina/helicopter_1/nato_base)
+"bD" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{tag = "icon-9"; icon_state = "9"},/area/prishtina/helicopter_1/nato_base)
+"bE" = (/obj/structure/sign/flag/germany,/turf/unsimulated/wall,/area/prishtina/german_base_outside)
+"bF" = (/obj/machinery/door/airlock/multi_tile/glass{req_access = list(81)},/turf/simulated/floor/wood,/area/prishtina/german_base_outside)
+"bG" = (/turf/simulated/floor/wood,/area/prishtina/german_base_outside)
+"bH" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{tag = "icon-7"; icon_state = "7"},/area/prishtina/helicopter_2/nato_base)
+"bI" = (/obj/structure/bed/chair{dir = 1},/obj/machinery/computer/shuttle_control/multi/nato2,/turf/simulated/shuttle/helicopter{density = 0; icon_state = "8"; tag = "icon-8"},/area/prishtina/helicopter_2/nato_base)
+"bJ" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{tag = "icon-9"; icon_state = "9"},/area/prishtina/helicopter_2/nato_base)
+"bK" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{icon_state = "11"; opacity = 1; tag = "icon-11"},/area/prishtina/helicopter_1/nato_base)
+"bL" = (/turf/simulated/floor/plating/grass,/obj/structure/sign/flag/germany,/turf/simulated/shuttle/helicopter{icon_state = "12"; opacity = 1; tag = "icon-12"},/area/prishtina/helicopter_1/nato_base)
+"bM" = (/turf/simulated/shuttle/helicopter{density = 0; icon_state = "13"; tag = "icon-13"},/area/prishtina/helicopter_1/nato_base)
+"bN" = (/turf/simulated/floor/plating/grass,/obj/structure/sign/flag/germany,/turf/simulated/shuttle/helicopter{icon_state = "14"; opacity = 1; tag = "icon-14"},/area/prishtina/helicopter_1/nato_base)
+"bO" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{icon_state = "15"; opacity = 1; tag = "icon-15"},/area/prishtina/helicopter_1/nato_base)
+"bP" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/plating/grass,/area/prishtina/german_base_outside)
+"bQ" = (/turf/simulated/floor/plating/dirt,/area/prishtina/german_base_outside)
+"bR" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{icon_state = "11"; opacity = 1; tag = "icon-11"},/area/prishtina/helicopter_2/nato_base)
+"bS" = (/turf/simulated/floor/plating/grass,/obj/structure/sign/flag/germany,/turf/simulated/shuttle/helicopter{icon_state = "12"; opacity = 1; tag = "icon-12"},/area/prishtina/helicopter_2/nato_base)
+"bT" = (/turf/simulated/shuttle/helicopter{density = 0; icon_state = "13"; tag = "icon-13"},/area/prishtina/helicopter_2/nato_base)
+"bU" = (/turf/simulated/floor/plating/grass,/obj/structure/sign/flag/germany,/turf/simulated/shuttle/helicopter{icon_state = "14"; opacity = 1; tag = "icon-14"},/area/prishtina/helicopter_2/nato_base)
+"bV" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{icon_state = "15"; opacity = 1; tag = "icon-15"},/area/prishtina/helicopter_2/nato_base)
+"bW" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{icon_state = "16"; opacity = 1; tag = "icon-16"},/area/prishtina/helicopter_1/nato_base)
+"bX" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/obj/structure/closet/crate,/turf/simulated/shuttle/helicopter{density = 0; icon_state = "17"; tag = "icon-17"},/area/prishtina/helicopter_1/nato_base)
+"bY" = (/turf/simulated/shuttle/helicopter{density = 0; icon_state = "18"; tag = "icon-18"},/area/prishtina/helicopter_1/nato_base)
+"bZ" = (/obj/machinery/light{dir = 4; icon_state = "tube1"; pixel_x = 0},/obj/structure/closet/crate,/turf/simulated/shuttle/helicopter{density = 0; icon_state = "19"; tag = "icon-19"},/area/prishtina/helicopter_1/nato_base)
+"ca" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{icon_state = "20"; opacity = 1; tag = "icon-20"},/area/prishtina/helicopter_1/nato_base)
+"cb" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{icon_state = "16"; opacity = 1; tag = "icon-16"},/area/prishtina/helicopter_2/nato_base)
+"cc" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/obj/structure/closet/crate,/turf/simulated/shuttle/helicopter{density = 0; icon_state = "17"; tag = "icon-17"},/area/prishtina/helicopter_2/nato_base)
+"cd" = (/turf/simulated/shuttle/helicopter{density = 0; icon_state = "18"; tag = "icon-18"},/area/prishtina/helicopter_2/nato_base)
+"ce" = (/obj/machinery/light{dir = 4; icon_state = "tube1"; pixel_x = 0},/obj/structure/closet/crate,/turf/simulated/shuttle/helicopter{density = 0; icon_state = "19"; tag = "icon-19"},/area/prishtina/helicopter_2/nato_base)
+"cf" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{icon_state = "20"; opacity = 1; tag = "icon-20"},/area/prishtina/helicopter_2/nato_base)
+"cg" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{icon_state = "21"; opacity = 1; tag = "icon-21"},/area/prishtina/helicopter_1/nato_base)
+"ch" = (/obj/structure/bed/chair{dir = 4},/turf/simulated/shuttle/helicopter{density = 0; icon_state = "22"; tag = "icon-22"},/area/prishtina/helicopter_1/nato_base)
+"ci" = (/turf/simulated/shuttle/helicopter{density = 0; icon_state = "23"; tag = "icon-23"},/area/prishtina/helicopter_1/nato_base)
+"cj" = (/obj/structure/bed/chair{dir = 8},/turf/simulated/shuttle/helicopter{density = 0; icon_state = "24"; tag = "icon-24"},/area/prishtina/helicopter_1/nato_base)
+"ck" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{icon_state = "25"; opacity = 1; tag = "icon-25"},/area/prishtina/helicopter_1/nato_base)
+"cl" = (/obj/effect/landmark{name = "artillery_spawn"},/turf/simulated/floor/plating/grass,/area/prishtina/german_base_outside)
+"cm" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{icon_state = "21"; opacity = 1; tag = "icon-21"},/area/prishtina/helicopter_2/nato_base)
+"cn" = (/obj/structure/bed/chair{dir = 4},/turf/simulated/shuttle/helicopter{density = 0; icon_state = "22"; tag = "icon-22"},/area/prishtina/helicopter_2/nato_base)
+"co" = (/turf/simulated/shuttle/helicopter{density = 0; icon_state = "23"; tag = "icon-23"},/area/prishtina/helicopter_2/nato_base)
+"cp" = (/obj/structure/bed/chair{dir = 8},/turf/simulated/shuttle/helicopter{density = 0; icon_state = "24"; tag = "icon-24"},/area/prishtina/helicopter_2/nato_base)
+"cq" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{icon_state = "25"; opacity = 1; tag = "icon-25"},/area/prishtina/helicopter_2/nato_base)
+"cr" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{tag = "icon-26"; icon_state = "26"},/area/prishtina/helicopter_1/nato_base)
+"cs" = (/obj/structure/bed/chair{dir = 4},/turf/simulated/shuttle/helicopter{density = 0; icon_state = "27"; tag = "icon-27"},/area/prishtina/helicopter_1/nato_base)
+"ct" = (/turf/simulated/shuttle/helicopter{density = 0; icon_state = "28"; tag = "icon-28"},/area/prishtina/helicopter_1/nato_base)
+"cu" = (/obj/structure/bed/chair{dir = 8},/turf/simulated/shuttle/helicopter{density = 0; icon_state = "29"; tag = "icon-29"},/area/prishtina/helicopter_1/nato_base)
+"cv" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{tag = "icon-30"; icon_state = "30"},/area/prishtina/helicopter_1/nato_base)
+"cw" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{tag = "icon-26"; icon_state = "26"},/area/prishtina/helicopter_2/nato_base)
+"cx" = (/obj/structure/bed/chair{dir = 4},/turf/simulated/shuttle/helicopter{density = 0; icon_state = "27"; tag = "icon-27"},/area/prishtina/helicopter_2/nato_base)
+"cy" = (/turf/simulated/shuttle/helicopter{density = 0; icon_state = "28"; tag = "icon-28"},/area/prishtina/helicopter_2/nato_base)
+"cz" = (/obj/structure/bed/chair{dir = 8},/turf/simulated/shuttle/helicopter{density = 0; icon_state = "29"; tag = "icon-29"},/area/prishtina/helicopter_2/nato_base)
+"cA" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{tag = "icon-30"; icon_state = "30"},/area/prishtina/helicopter_2/nato_base)
+"cB" = (/turf/simulated/floor/plating/grass,/obj/item/weapon/gun/projectile/minigun,/turf/simulated/shuttle/helicopter{density = 0; icon_state = "31"; tag = "icon-31"},/area/prishtina/helicopter_1/nato_base)
+"cC" = (/turf/simulated/shuttle/helicopter{density = 0; icon_state = "32"; tag = "icon-32"},/area/prishtina/helicopter_1/nato_base)
+"cD" = (/turf/simulated/shuttle/helicopter{density = 0; icon_state = "33"; tag = "icon-33"},/area/prishtina/helicopter_1/nato_base)
+"cE" = (/turf/simulated/shuttle/helicopter{density = 0; icon_state = "34"; tag = "icon-34"},/area/prishtina/helicopter_1/nato_base)
+"cF" = (/turf/simulated/floor/plating/grass,/obj/item/weapon/gun/projectile/minigun{tag = "icon-minigun (EAST)"; icon_state = "minigun"; dir = 4},/turf/simulated/shuttle/helicopter{density = 0; icon_state = "35"; tag = "icon-35"},/area/prishtina/helicopter_1/nato_base)
+"cG" = (/turf/simulated/floor/plating/grass,/obj/item/weapon/gun/projectile/minigun{tag = "icon-minigun (WEST)"; icon_state = "minigun"; dir = 8},/turf/simulated/shuttle/helicopter{density = 0; icon_state = "31"; tag = "icon-31"},/area/prishtina/helicopter_2/nato_base)
+"cH" = (/turf/simulated/shuttle/helicopter{density = 0; icon_state = "32"; tag = "icon-32"},/area/prishtina/helicopter_2/nato_base)
+"cI" = (/turf/simulated/shuttle/helicopter{density = 0; icon_state = "33"; tag = "icon-33"},/area/prishtina/helicopter_2/nato_base)
+"cJ" = (/turf/simulated/shuttle/helicopter{density = 0; icon_state = "34"; tag = "icon-34"},/area/prishtina/helicopter_2/nato_base)
+"cK" = (/turf/simulated/floor/plating/grass,/obj/item/weapon/gun/projectile/minigun{tag = "icon-minigun (NORTH)"; icon_state = "minigun"; dir = 1},/turf/simulated/shuttle/helicopter{density = 0; icon_state = "35"; tag = "icon-35"},/area/prishtina/helicopter_2/nato_base)
+"cL" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{tag = "icon-36"; icon_state = "36"},/area/prishtina/helicopter_1/nato_base)
+"cM" = (/obj/structure/bed/chair{dir = 4},/turf/simulated/shuttle/helicopter{density = 0; icon_state = "37"; tag = "icon-37"},/area/prishtina/helicopter_1/nato_base)
+"cN" = (/turf/simulated/shuttle/helicopter{density = 0; icon_state = "38"; tag = "icon-38"},/area/prishtina/helicopter_1/nato_base)
+"cO" = (/obj/structure/bed/chair{dir = 8},/turf/simulated/shuttle/helicopter{density = 0; icon_state = "39"; tag = "icon-39"},/area/prishtina/helicopter_1/nato_base)
+"cP" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{tag = "icon-40"; icon_state = "40"},/area/prishtina/helicopter_1/nato_base)
+"cQ" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{tag = "icon-36"; icon_state = "36"},/area/prishtina/helicopter_2/nato_base)
+"cR" = (/obj/structure/bed/chair{dir = 4},/turf/simulated/shuttle/helicopter{density = 0; icon_state = "37"; tag = "icon-37"},/area/prishtina/helicopter_2/nato_base)
+"cS" = (/turf/simulated/shuttle/helicopter{density = 0; icon_state = "38"; tag = "icon-38"},/area/prishtina/helicopter_2/nato_base)
+"cT" = (/obj/structure/bed/chair{dir = 8},/turf/simulated/shuttle/helicopter{density = 0; icon_state = "39"; tag = "icon-39"},/area/prishtina/helicopter_2/nato_base)
+"cU" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{tag = "icon-40"; icon_state = "40"},/area/prishtina/helicopter_2/nato_base)
+"cV" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{tag = "icon-41"; icon_state = "41"},/area/prishtina/helicopter_1/nato_base)
+"cW" = (/obj/structure/bed/chair{dir = 4},/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/shuttle/helicopter{density = 0; icon_state = "42"; tag = "icon-42"},/area/prishtina/helicopter_1/nato_base)
+"cX" = (/turf/simulated/shuttle/helicopter{density = 0; icon_state = "43"; tag = "icon-43"},/area/prishtina/helicopter_1/nato_base)
+"cY" = (/obj/structure/bed/chair{dir = 8},/obj/machinery/light{dir = 4; icon_state = "tube1"; pixel_x = 0},/turf/simulated/shuttle/helicopter{density = 0; icon_state = "44"; tag = "icon-44"},/area/prishtina/helicopter_1/nato_base)
+"cZ" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{tag = "icon-45"; icon_state = "45"},/area/prishtina/helicopter_1/nato_base)
+"da" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{tag = "icon-41"; icon_state = "41"},/area/prishtina/helicopter_2/nato_base)
+"db" = (/obj/structure/bed/chair{dir = 4},/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/shuttle/helicopter{density = 0; icon_state = "42"; tag = "icon-42"},/area/prishtina/helicopter_2/nato_base)
+"dc" = (/turf/simulated/shuttle/helicopter{density = 0; icon_state = "43"; tag = "icon-43"},/area/prishtina/helicopter_2/nato_base)
+"dd" = (/obj/structure/bed/chair{dir = 8},/obj/machinery/light{dir = 4; icon_state = "tube1"; pixel_x = 0},/turf/simulated/shuttle/helicopter{density = 0; icon_state = "44"; tag = "icon-44"},/area/prishtina/helicopter_2/nato_base)
+"de" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{tag = "icon-45"; icon_state = "45"},/area/prishtina/helicopter_2/nato_base)
+"df" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{icon_state = "46"; opacity = 1; tag = "icon-46"},/area/prishtina/helicopter_1/nato_base)
+"dg" = (/turf/simulated/shuttle/helicopter{tag = "icon-47"; icon_state = "47"},/area/prishtina/helicopter_1/nato_base)
+"dh" = (/turf/simulated/shuttle/helicopter{density = 0; icon_state = "48"; tag = "icon-48"},/area/prishtina/helicopter_1/nato_base)
+"di" = (/turf/simulated/shuttle/helicopter{tag = "icon-49"; icon_state = "49"},/area/prishtina/helicopter_1/nato_base)
+"dj" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{icon_state = "50"; opacity = 1; tag = "icon-50"},/area/prishtina/helicopter_1/nato_base)
+"dk" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{icon_state = "46"; opacity = 1; tag = "icon-46"},/area/prishtina/helicopter_2/nato_base)
+"dl" = (/turf/simulated/shuttle/helicopter{tag = "icon-47"; icon_state = "47"},/area/prishtina/helicopter_2/nato_base)
+"dm" = (/turf/simulated/shuttle/helicopter{density = 0; icon_state = "48"; tag = "icon-48"},/area/prishtina/helicopter_2/nato_base)
+"dn" = (/turf/simulated/shuttle/helicopter{tag = "icon-49"; icon_state = "49"},/area/prishtina/helicopter_2/nato_base)
+"do" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{icon_state = "50"; opacity = 1; tag = "icon-50"},/area/prishtina/helicopter_2/nato_base)
+"dp" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{icon_state = "51"; opacity = 1; tag = "icon-51"},/area/prishtina/helicopter_1/nato_base)
+"dq" = (/turf/simulated/shuttle/helicopter{tag = "icon-52"; icon_state = "52"},/area/prishtina/helicopter_1/nato_base)
+"dr" = (/turf/simulated/shuttle/helicopter{density = 0; icon_state = "53"; tag = "icon-53"},/area/prishtina/helicopter_1/nato_base)
+"ds" = (/turf/simulated/shuttle/helicopter{tag = "icon-54"; icon_state = "54"},/area/prishtina/helicopter_1/nato_base)
+"dt" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{icon_state = "55"; opacity = 1; tag = "icon-55"},/area/prishtina/helicopter_1/nato_base)
+"du" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{icon_state = "51"; opacity = 1; tag = "icon-51"},/area/prishtina/helicopter_2/nato_base)
+"dv" = (/turf/simulated/shuttle/helicopter{tag = "icon-52"; icon_state = "52"},/area/prishtina/helicopter_2/nato_base)
+"dw" = (/turf/simulated/shuttle/helicopter{density = 0; icon_state = "53"; tag = "icon-53"},/area/prishtina/helicopter_2/nato_base)
+"dx" = (/turf/simulated/shuttle/helicopter{tag = "icon-54"; icon_state = "54"},/area/prishtina/helicopter_2/nato_base)
+"dy" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{icon_state = "55"; opacity = 1; tag = "icon-55"},/area/prishtina/helicopter_2/nato_base)
+"dz" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{density = 0; icon_state = "56"; tag = "icon-56"},/area/prishtina/helicopter_1/nato_base)
+"dA" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{density = 0; icon_state = "57"; tag = "icon-57"},/area/prishtina/helicopter_1/nato_base)
+"dB" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{density = 0; icon_state = "58"; tag = "icon-58"},/area/prishtina/helicopter_1/nato_base)
+"dC" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{density = 0; icon_state = "59"; tag = "icon-59"},/area/prishtina/helicopter_1/nato_base)
+"dD" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{density = 0; icon_state = "60"; tag = "icon-60"},/area/prishtina/helicopter_1/nato_base)
+"dE" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{density = 0; icon_state = "56"; tag = "icon-56"},/area/prishtina/helicopter_2/nato_base)
+"dF" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{density = 0; icon_state = "57"; tag = "icon-57"},/area/prishtina/helicopter_2/nato_base)
+"dG" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{density = 0; icon_state = "58"; tag = "icon-58"},/area/prishtina/helicopter_2/nato_base)
+"dH" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{density = 0; icon_state = "59"; tag = "icon-59"},/area/prishtina/helicopter_2/nato_base)
+"dI" = (/turf/simulated/floor/plating/grass,/turf/simulated/shuttle/helicopter{density = 0; icon_state = "60"; tag = "icon-60"},/area/prishtina/helicopter_2/nato_base)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabababacacacacacabadadadadadababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabababacacacacacabadadadadadababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabababacacacacacabadadadadadababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabababacacacacacabadadadadadababababababababababababababababababababababababababababaeaeaeaeaeaeaeaeaeaeababababababababababababababababaa
+aaabababacacacacacabadadadadadababababababababababababababababababababababababababababaeafagafahahafagafaeababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababaeafafafafafafafafaeababababababababababababababababaa
+aaabababaiaiaiaiaiabajajajajajabababababababababababababababababaeaeakaeaealaeaeakaeaeaeamafafafafafafanaeababababababababababababababababaa
+aaabababaiaiaiaiaiabajajajajajabababababababababababababababababaeaoapaoapaoapaoapaoaeaeafafafafafafafafaeababababababababababababababababaa
+aaabababaiaiaiaiaiabajajajajajabababababababababababababababababaeamapafapafapafapanaeaeafaqafafafafaqafaeababababababababababababababababaa
+aaabababaiaiaiaiaiabajajajajajabababababababababababababababababaeaoapaoapaoapaoapaoaeaeaeaeaearaeaeaeaeaeababababababababababababababababaa
+aaabababaiaiaiaiaiabajajajajajabababababababababababababababababaeamapafapafapafapanaeasasasatafatasasasaeababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababaeaoapaoapafapaoapaoaeafafafafafafafafafaeababababababababababababababababaa
+aaababababababababababababababababababababababababababaeaeaealaeaeaeakaeaeafaeaeakaeaeamafafafafafafafanaeababababababababababababababababaa
+aaababababababababababababababababababababababababababaeauagavawaeamafafafafafafafafarafafafaqafaqafafafaeababababababababababababababababaa
+aaababababababababababababababababababababababababababaeafafafafaxafafayafayafayafafaeaeaeakaeazaeakaeaeaeababababababababababababababababaa
+aaababababababababababababababababababababababababababaeafafafafaeamafayafayafayafanaeaAaBaAaCafaCaDaEaFaeababababababababababababababababaa
+aaababababababababababababababababababababababababababaeafaGaHaIaeafafayafayafayafafaJafafafafafafafafafaeababababababababababababababababaa
+aaababababababababababababababababababababababababababaeaeaeaeaeaeamafayafayafayafafaJafafafafafafafafafaeababababababababababababababababaa
+aaababababababababababababababababababababababababababaeafaKaLaMakafafayafayafayafafaeaNaOaPaQaRaSaTaUaFaeababababababababababababababababaa
+aaababababababababababababababababababababababababababaeafafaVafaeamafafaWaqafafafanaeaeaeakaeaeaeakaeaeaeababababababababababababababababaa
+aaababababababababababababababababababababababababababaeafafafafaeaeafafaeaeaeaeaeaeaeaealaeaeababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababaeafafafafaeafafafafaeaXaXagaYaYagaZbaaeababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababaeafafafafaeamafafanaebbafafafafbcafbdaeababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababaeafafafafbeafafafafbfafafafafafafafbgaeababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababaeafafafafaeamafafanaebhbibjbkblbmbnboaeababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababaeayafafaoaeafafafafaeaeaeaeaeaeaeaeaeaeababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababaeaeaeaeaeaeaeakafafakaeaeaeaeaeaeaeabababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababaeafagafafagafafafafafafafafagafaeaeabababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababaebpaKaVaVaKaVafafafaVaKaVaVaKbqaeaeabababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababaeaVaKaVaVaKaVafafafaVaKaVaVaKaVaeaeabababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababalaVaKaVaVaKaVafafafaVaKaVaVaKaValaeabababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababaeaVaKaVaVaKaVafafafaVaKaVaVaKaVaeaeabababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababaebpaKaVaVaKaVafafafaVaKaVaVaKbqaeaeabababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababaeafaqafafaqafafafafafaqafafaqafaeaeabababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababbrbrbrbrbrbrbrbramanbrbrbrbrbrbrbrbrabababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababbrbsbtbubvbwbwbrafafbrbsbxbybzbwbAbrabababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababbrbsbBbCbDbsbsbEbFbGbEbsbHbIbJbsbAbrabababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababbrbKbLbMbNbObsbPbQbQbPbRbSbTbUbVbAbrabababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababbrbWbXbYbZcabsbsbQbQbscbcccdcecfbsbrabababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababbrcgchcicjckbsbsbQbQclcmcncocpcqbsbrabababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababbrcrcsctcucvbsbsbQbQbscwcxcyczcAbsbrabababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababbrcBcCcDcEcFbsbsbQbQbscGcHcIcJcKbsbrabababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababbrcLcMcNcOcPbsbsbQbQbscQcRcScTcUbsbrabababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababbrcVcWcXcYcZbsbsbQbQbsdadbdcdddebsbrabababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababbrdfdgdhdidjbsbsbQbQbsdkdldmdndobsbrabababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababbrdpdqdrdsdtbsbsbQbQbsdudvdwdxdybsbrabababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababbrdzdAdBdCdDbsbsbQbQbsdEdFdGdHdIbsbrabababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababbrbsbQbQbQbQbQbQbQbQbsbsbsbsbsbsbsbrabababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababbrbsbQbQbQbQbQbQbQbQbsbsbsbsbsbsbsbrabababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababbrbsbsbsbsbsbsbsbsbsbsbsbsbsbsbsbsbrabababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrabababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
